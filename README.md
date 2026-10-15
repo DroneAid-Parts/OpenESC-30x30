@@ -1,13 +1,16 @@
-# OpenESC-30x30
+<p align="center">
+  <img src="images/droneaid-logo.svg" width="154" height="30" alt="DroneAid" />
+</p>
 
-Open source 4-in-1 BLDC ESC with a 30.5 x 30.5 mm mounting pattern, part of the
-incutec OpenDrone line. Four independent motor controllers, each with its own
+# DroneAid OpenESC-30x30
+
+Open source 4-in-1 BLDC ESC with a 30.5 x 30.5 mm mounting pattern, part of DroneAid's hardware lineup. Four independent motor controllers, each with its own
 MCU, gate driver and six MOSFETs, running AM32 and taking DShot over the
 standard 8-pin connector.
 
 <p>
-<img src="images/front.png" width="400" alt="OpenESC-30x30 top" />
-<img src="images/back.png" width="400" alt="OpenESC-30x30 bottom" />
+<img src="images/front.png" width="400" alt="DroneAid OpenESC-30x30 top" />
+<img src="images/back.png" width="400" alt="DroneAid OpenESC-30x30 bottom" />
 </p>
 
 [![Status](https://img.shields.io/endpoint?url=https://opendrone.be/api/status/OpenESC-30x30.json)](https://github.com/OpenDrone-hw/.github/blob/main/CONTRIBUTING.md#the-life-of-a-project)

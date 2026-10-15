@@ -1,4 +1,4 @@
-# OpenESC-30x30
+# DroneAid OpenESC-30x30
 
 Open-Source 4-in-1 sensorless BLDC motor Electronic Speed Controller (ESC), 30.5
 x 30.5 mm mounting pattern (FPV Drone standard). Part of OpenDrone by Incutec
